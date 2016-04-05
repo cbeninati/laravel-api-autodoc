@@ -3,8 +3,8 @@
   "description": "An automatic API documentation creation utility.",
   "keywords": ["api", "webservice", "documentation"],
   "license": "MIT",
-  "homepage": "http://rabbleandrouser.com",
-  "version": "0.1.3",
+  "homepage": "http://cbeninati.com",
+  "version": "0.1.4",
   "authors": [
     {
       "name": "Chad Beninati",
